@@ -1,4 +1,4 @@
-# Hola, soy Jhon 👋
+# Hola, soy Jhon
 
 ## Sobre mí
 - 🎓 Ciberseguridad & IA | ASIR
@@ -15,9 +15,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ## Actualmente trabajando en
-- 🛡️ Herramienta de auditoría de seguridad automatizada con IA
-- 📚 Certificación eJPT
-- 🔍 CTF Writeups
+- Herramienta de auditoría de seguridad automatizada con IA
+- Certificación eJPT
+- CTF Writeups
 
 ## Encuéntrame en
 [![LinkedIn](https://www.linkedin.com/in/jhon-martinez-loyo-970b18365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
